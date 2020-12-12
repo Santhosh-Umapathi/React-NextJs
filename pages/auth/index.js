@@ -7,7 +7,8 @@ const AuthIndexPage = () => {
 		<div>
 			<h1>Auth Index Page</h1>
 
-			<User name="NEXT Js" age = "new"/>
+			<User name="NEXT Js" age="new" />
+			
 		</div>
 	)
 }
